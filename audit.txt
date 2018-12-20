@@ -1,0 +1,27 @@
+11-18-2018 : 13:54 : Unicorn : 27 : successful
+11-18-2018 : 13:59 : Ride on a Rainbow : 57 : successful
+11-18-2018 : 14:01 : Ride on a Rainbow : 56 : successful
+11-18-2018 : 14:02 : Ride on a Rainbow : 56 : Insufficient funds
+11-18-2018 : 14:02 : Ride on a Rainbow : 55 : successful
+11-18-2018 : 03:07 : Ride on a Rainbow : 54 : successful
+11-18-2018 : 05:47 : Ride on a Rainbow : 53 : successful
+11-18-2018 : 05:48 : Ride on a Rainbow : 52 : successful
+11-19-2018 : 10:30 : Ride on a Rainbow : 51 : successful
+11-19-2018 : 02:00 : Ride on a Rainbow : 50 : successful
+11-19-2018 : 02:00 : Ride on a Rainbow : 50 : Insufficient funds
+11-19-2018 : 02:00 : Trip to Mars : 0 : Out of stock
+11-19-2018 : 02:02 : Unicorn : 20 : successful
+11-19-2018 : 02:03 : Trip to the Past : 8 : successful
+11-22-2018 : 01:01 : processTransaction : 34579238Ride on a Rainbow
+11-22-2018 : 01:44 : auditFile : Name: A Wish |InventoryCount: 3 : Insufficient funds
+11-22-2018 : 01:47 : auditFile : Name: Trip to Mars |InventoryCount: 0 : Out of stock
+11-22-2018 : 01:49 : auditFile : Name: Trip to Mars |InventoryCount: 0 : Out of stock
+11-22-2018 : 01:53 : auditFile : Name: Trip to Mars |InventoryCount: 0 : Out of stock
+11-22-2018 : 01:56 : nullName: Trip to Mars |InventoryCount: 0 : Out of stock
+11-22-2018 : 01:56 :  Name: Trip to Mars |InventoryCount: 0 : Out of stock
+11-22-2018 : 04:02 :  Name: A Wish: InventoryCount: 3 : Insufficient funds
+11-22-2018 : 04:06 :  Name: A Wish: InventoryCount: 3 : Insufficient funds
+11-22-2018 : 04:07 :  Name: A Wish: InventoryCount: 3 : Insufficient funds
+11-22-2018 : 04:07 :  Name: A Wish: InventoryCount: 3 : Insufficient funds
+11-22-2018 : 04:21 :  Name: A Wish : InventoryCount : 3 : Insufficient funds
+12-11-2018 : 07:39 :  Name: Ride on a Rainbow : InventoryCount : 48 : successful

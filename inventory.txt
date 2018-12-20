@@ -1,0 +1,9 @@
+A Wish::200000::3
+Trip to the Past::50000::8
+Voodoo Doll::50000::19
+Trip to Mars::150000::0
+Unicorn::75000::0
+A Dream::100000::8
+The Meaning of Life::150000::15
+Trip to the Future::125000::9
+Ride on a Rainbow::50000::48
